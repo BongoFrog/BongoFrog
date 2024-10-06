@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hoang Long</h1>
-<h3 align="center">Motivated fresher with hands-on experience in DevOps, backend development, and system administration. Skilled in Docker, Kubernetes, networking, and scripting with Python and Bash. Seeking to leverage my skills in a challenging position to contribute to system optimization and cloud infrastructure</h3>
+<h3 align="left">Motivated fresher with hands-on experience in DevOps, backend development, and system administration. Skilled in Docker, Kubernetes, networking, and scripting with Python and Bash. Seeking to leverage my skills in a challenging position to contribute to system optimization and cloud infrastructure</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bongofrog" alt="bongofrog" /></a> </p>
 
